@@ -1,0 +1,12 @@
+student_id,student_name,course_id,status
+1,Paul,11,Active
+2,Ram,22,Active
+3,John,33,Active
+4,Jake,44,Inactive
+5,Joseph,44,Active
+6,Chris,55,Active
+7,Mike,22,Active
+1,Paul,22,active
+1,Paul,33,Inactive
+2,Ram,22,Inactive
+0,Jill,33,Active
