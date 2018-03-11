@@ -1,2 +1,3 @@
-Diapers Huggies or Pampers? 
-Huggies`
+Detached HEAD
+different commit
+git checkout "commit id:"
