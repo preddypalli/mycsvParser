@@ -1,4 +1,3 @@
 Detached HEAD
 different commit
 git checkout "commit id:"
-revert commit
